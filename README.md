@@ -17,4 +17,4 @@ Proyek ini merupakan eksplorasi data (EDA) terhadap dataset penjualan supermarke
 - Metode pembayaran paling populer: **Cash**
 
 ## Dataset
-Dataset berasal dari Kaggle (https://www.kaggle.com/code/damianogalassi/supermarket-sales-eda)
+Dataset berasal dari Kaggle (http://kaggle.com/datasets/abhilashakumari100/supermarket-sales?select=supermarket_sales.csv)
