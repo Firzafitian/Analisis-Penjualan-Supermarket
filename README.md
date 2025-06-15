@@ -1,4 +1,4 @@
-# 📊 Analisis Data Penjualan Supermarket
+# Analisis Data Penjualan Supermarket
 
 Proyek ini merupakan eksplorasi data (EDA) terhadap dataset penjualan supermarket yang mencakup informasi seperti tanggal, kota, produk, jenis kelamin pelanggan, dan metode pembayaran. Analisis dilakukan menggunakan Python.
 
